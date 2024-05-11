@@ -1,4 +1,4 @@
-# Winery Sensor Arduino 🍷
+# Winery Sensors Arduino 🍷
 
 Alunos:
 <ul>
@@ -18,7 +18,7 @@ O projeto baseia-se em um sistema para monitorar a luminosidade, temperatura e u
 
 <a href="https://www.tinkercad.com/things/4S3AE9gJQzp-cp02-edge-computing/editel?sharecode=vOLCiUOaUEslPjI7DB_9dx8rPn29b88FDNGAlhl7aZw">Link do Projeto</a>
 
-## Dependências do Projeto 🔨
+## Componentes Necessários 🔨
 - 1 Arduino UNO
 - 1 LED Vermelho
 - 1 LED Amarelo
